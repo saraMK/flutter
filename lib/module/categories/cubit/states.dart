@@ -1,0 +1,1 @@
+abstract class CategoryStates{}class IntialState extends CategoryStates{}class CategoriesListState extends CategoryStates{}class CategoriesLoading extends CategoryStates{}class OnError extends CategoryStates{  String error; OnError(this.error);}

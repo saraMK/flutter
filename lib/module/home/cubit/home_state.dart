@@ -1,0 +1,1 @@
+abstract class HomeStates{}class HomeLoadingState  extends HomeStates{}class HomeSliderState  extends HomeStates{}class HomeBrandsState  extends HomeStates{}class VendorsState  extends HomeStates{}class IntialState extends HomeStates{}

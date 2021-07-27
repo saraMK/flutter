@@ -1,0 +1,1 @@
+abstract class ProductDetailsStates{}class InitialState extends ProductDetailsStates{}class ProductDetailState extends ProductDetailsStates{}class LoadingState extends ProductDetailsStates{}
