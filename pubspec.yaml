@@ -44,6 +44,7 @@ dependencies:
   share: ^2.0.4
   shimmer_animation: ^2.1.0
   flutter_launcher_icons: ^0.9.1
+  page_transition: ^2.0.2
 
 dev_dependencies:
   retrofit_generator: any
